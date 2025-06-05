@@ -8,7 +8,7 @@ What You'll Find
 
 chatbot.py: The core Python script containing the chatbot's logic, personality, and predefined crypto data.Screenshots: Images demonstrating interactions with the chatbot.
   **`chatbot.py`**: The core Python script containing the chatbot's logic, personality, and predefined crypto data.
--   **Screenshots**: Images demonstrating interactions with the chatbot. (You will add these after running the bot).
+-   **Screenshots**: Images demonstrating interactions with the chatbot. (CryptoBuddy Chatbot Python Code - Colab - Google Chrome 6_5_2025 11_57_04 PM.png).
 
 
 How it Works
