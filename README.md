@@ -6,7 +6,10 @@ This project demonstrates a simple rule-based chatbot designed to provide crypto
 
 What You'll Find
 
-chatbot.py: The core Python script containing the chatbot's logic, personality, and predefined crypto data.Screenshots: Images demonstrating interactions with the chatbot. (You will add these after running the bot).
+chatbot.py: The core Python script containing the chatbot's logic, personality, and predefined crypto data.Screenshots: Images demonstrating interactions with the chatbot.
+  **`chatbot.py`**: The core Python script containing the chatbot's logic, personality, and predefined crypto data.
+-   **Screenshots**: Images demonstrating interactions with the chatbot. (You will add these after running the bot).
+
 
 How it Works
 
